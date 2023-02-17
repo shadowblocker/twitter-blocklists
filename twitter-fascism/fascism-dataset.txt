@@ -1,9 +1,57 @@
-All Twitter account unique user ID's, where the account has tweeted one or more tweets containing one or more monitored identifiers.
+All Twitter account unique user ID's, where the account's biographical description at the time of the crawl contains three or more monitored biographical 
+identifiers. All Twitter account unique user ID's, where the account's tweets at the time of the crawl contains three or more monitored identifiers.
 
-Crawlers deployed: snscrape/advsearch.py snscrape/cashtag.py snscrape/hashtag.py tweepy/search.py tweepy/hashtag.py
+Crawlers deployed: snscrape/fastuser.py tweepy/userbio.py
 Date range start: 2000-01-01 00:00:01
 Date range end: 2023-02-17 23:59:59
 Total Hits: 0
 Unique Hits: 0
 
+Biographical identifiers:
+
+#americafirst
+#britainfirst
+#buildthewall
+#deportthemall
+#ethnocommunity
+#ethnostate
+#greatreplacement
+#hitlerwasright
+#etsgobrandon
+#maga
+#maga2024
+#marchfortrump
+#notogreatreset
+#pureblood
+#stoptheboats
+#stoptheinvasion
+#stopthesteal
+#trump2024
+#trumpwon
+#ultramaga
+
 Monitored identifiers:
+
+"enoch powell was right"
+"hitler was right"
+
+#americafirst
+#britainfirst
+#buildthewall
+#deportthemall
+#ethnocommunity
+#ethnostate
+#greatreplacement
+#hitlerwasright
+#etsgobrandon
+#maga
+#maga2024
+#marchfortrump
+#notogreatreset
+#pureblood
+#stoptheboats
+#stoptheinvasion
+#stopthesteal
+#trump2024
+#trumpwon
+#ultramaga
