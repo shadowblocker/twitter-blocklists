@@ -1,0 +1,57 @@
+All Twitter account unique user ID's, where the account biographical description and or tweet content at the time of the crawl 
+contain one or more monitored identifiers common with covid consipracy and anti vaccine groups and or views.
+
+Crawlers deployed: snscrape/advsearch.py tweepy/advsearch.py
+Date range start: 2015-08-31 17:02:43
+Date range end: 2023-02-14 15:52:11
+Total Hits: 159,488
+Unique Hits: 59,101
+
+Monitored identifiers:
+
+#AdverseReaction
+#AdverseReactions
+#chinavirus
+#clotshot
+#covidhoax
+#coronaflu
+#coronahoax 
+#coronahoax2020
+#coronahoax2021
+#coronahoax2022
+#coronahoax2023
+#covidconspiracy
+#covidflu
+#covidhoax
+#covidisahoax
+#covidscam 
+#diedsuddenly
+#donotcomplyever
+#facediaper
+#facenappy
+#fakepandemic
+#freedomflu
+#greatreset
+#iwillnotcomply
+#justsaynotomasks 
+#kbf
+#keepbritainfree
+#medicalapartheid
+#nomaskmandates
+#nomedicalfascism
+#nomorelockdowns
+#novaccinemandates
+#novaccinepassport
+#novaccinepassportanywhere
+#novaccinepassports
+#novaccinepassportsanywhere
+#nuremberg2
+#plandemic
+#sanitariandictatorship
+#scamdemic 
+#vaccinesdontwork
+#vaccinesideeffects
+#vaccineinjured
+#vaccineskill
+#vaxlies
+#vaxxfree
