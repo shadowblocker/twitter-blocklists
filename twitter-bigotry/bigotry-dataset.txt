@@ -1,0 +1,35 @@
+All Twitter account unique user ID's, where the account biographical description at the time of the crawl 
+contains one or more monitored biographical identifiers common with anti-lgbtq+ groups and or views.
+
+Crawlers deployed: snscrape/fastuser.py tweepy/userbio.py
+Date range start: 2015-08-01 09:12:15
+Date range end: 2023-02-15 13:34:18
+Total Hits: 48,977
+Unique Hits: 2,205
+
+Biographical identifiers:
+
+"Adult Human Female"
+"Gay Not Queer"
+"Lesbian Not Queer"
+
+#adulthumanfemale
+#autogynephilia
+#cisisaslur
+#defundstonewall
+#getthelout
+#istandwithjkrowling
+#istandwithlgballiance
+#IStandWithMayaForstater
+#KeepPrisonsSingleSex
+#kpss
+#LGBwithouttheT
+#notoselfid
+#repealthegra
+#sexmatters
+#sexnotgender
+#stonewallout
+#teamterf
+#transWomenAreConMen
+#transwomenaremen
+#womenwontweesht
