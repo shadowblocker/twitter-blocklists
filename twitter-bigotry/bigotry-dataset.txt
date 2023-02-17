@@ -10,25 +10,36 @@ Unique Hits: 2,205
 Biographical identifiers:
 
 "Adult Human Female"
+"Adult Human Male"
 "Gay Not Queer"
 "Lesbian Not Queer"
+"sex is binary"
 
 #adulthumanfemale
+#adulthumanmale
 #autogynephilia
+#BlockedbyHfromSteps
 #cisisaslur
 #defundstonewall
+#gaynotqueer
 #getthelout
 #istandwithjkrowling
 #istandwithlgballiance
 #IStandWithMayaForstater
 #KeepPrisonsSingleSex
 #kpss
+#lesbiannotqueer 
 #LGBwithouttheT
 #notoselfid
 #repealthegra
 #sexmatters
 #sexnotgender
 #stonewallout
+#superbi
+#superbisexual
+#supergay
+#superlesbian
+#superstraight
 #teamterf
 #transWomenAreConMen
 #transwomenaremen
