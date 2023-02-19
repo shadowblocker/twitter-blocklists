@@ -4,187 +4,187 @@
       "should": [
         {
           "match_phrase": {
-            "bio.raw": "#transmenareconwomen"
+            "bio": "#transmenareconwomen"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#transmenarewomen"
+            "bio": "#transmenarewomen"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#womenwontweesht"
+            "bio": "#womenwontweesht"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#transwomenaremen"
+            "bio": "#transwomenaremen"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#transWomenAreConMen"
+            "bio": "#transWomenAreConMen"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#teamterf"
+            "bio": "#teamterf"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#superstraight"
+            "bio": "#superstraight"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#superlesbian"
+            "bio": "#superlesbian"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#supergay"
+            "bio": "#supergay"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#superbisexual"
+            "bio": "#superbisexual"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#superbi"
+            "bio": "#superbi"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#stonewallout"
+            "bio": "#stonewallout"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#sexnotgender"
+            "bio": "#sexnotgender"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#sexmatters"
+            "bio": "#sexmatters"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#repealthegra"
+            "bio": "#repealthegra"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#notoselfid"
+            "bio": "#notoselfid"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#LGBwithouttheT"
+            "bio": "#LGBwithouttheT"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#lesbiannotqueer"
+            "bio": "#lesbiannotqueer"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#kpss"
+            "bio": "#kpss"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#KeepPrisonsSingleSex"
+            "bio": "#KeepPrisonsSingleSex"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#IStandWithMayaForstater"
+            "bio": "#IStandWithMayaForstater"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#istandwithlgballiance"
+            "bio": "#istandwithlgballiance"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#istandwithjkrowling"
+            "bio": "#istandwithjkrowling"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#getthelout"
+            "bio": "#getthelout"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#gaynotqueer"
+            "bio": "#gaynotqueer"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#defundstonewall"
+            "bio": "#defundstonewall"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#cisisaslur"
+            "bio": "#cisisaslur"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#BlockedbyHfromSteps"
+            "bio": "#BlockedbyHfromSteps"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#autogynephilia"
+            "bio": "#autogynephilia"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#adulthumanmale"
+            "bio": "#adulthumanmale"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "#adulthumanfemale"
+            "bio": "#adulthumanfemale"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "sex is immutable"
+            "bio": "sex is immutable"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "sex is binary"
+            "bio": "sex is binary"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "Lesbian Not Queer"
+            "bio": "Lesbian Not Queer"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "Gay Not Queer"
+            "bio": "Gay Not Queer"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "Adult Human Male"
+            "bio": "Adult Human Male"
           }
         },
         {
           "match_phrase": {
-            "bio.raw": "Adult Human Female"
+            "bio": "Adult Human Female"
           }
         }
       ],
