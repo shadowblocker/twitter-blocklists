@@ -1,0 +1,194 @@
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "match_phrase": {
+            "bio.raw": "#transmenareconwomen"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#transmenarewomen"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#womenwontweesht"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#transwomenaremen"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#transWomenAreConMen"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#teamterf"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#superstraight"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#superlesbian"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#supergay"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#superbisexual"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#superbi"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#stonewallout"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#sexnotgender"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#sexmatters"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#repealthegra"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#notoselfid"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#LGBwithouttheT"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#lesbiannotqueer"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#kpss"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#KeepPrisonsSingleSex"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#IStandWithMayaForstater"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#istandwithlgballiance"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#istandwithjkrowling"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#getthelout"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#gaynotqueer"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#defundstonewall"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#cisisaslur"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#BlockedbyHfromSteps"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#autogynephilia"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#adulthumanmale"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "#adulthumanfemale"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "sex is immutable"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "sex is binary"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "Lesbian Not Queer"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "Gay Not Queer"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "Adult Human Male"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio.raw": "Adult Human Female"
+          }
+        }
+      ],
+      "minimum_should_match": 1
+    }
+  }
+}
