@@ -14,6 +14,7 @@ Biographical identifiers:
 "Gay Not Queer"
 "Lesbian Not Queer"
 "sex is binary"
+"sex is immutable"
 
 #adulthumanfemale
 #adulthumanmale
@@ -41,6 +42,8 @@ Biographical identifiers:
 #superlesbian
 #superstraight
 #teamterf
+#transmenarewomen
+#transmenareconwomen
 #transWomenAreConMen
 #transwomenaremen
 #womenwontweesht
