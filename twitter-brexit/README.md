@@ -5,7 +5,7 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 
 #### Search Scope
 * Date range start: 2000-01-01 00:00:01
-* Date range end: 2023-02-17 23:59:59
+* Date range end: 2023-02-20 23:59:59
 
 #### Biographical Identifiers
 * Total Hits: 0
