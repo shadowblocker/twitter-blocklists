@@ -17,7 +17,7 @@ Date range end: 2023-02-18 23:55:50
 * snscrape/fastuser.py 
 * tweepy/userbio.py
 
-## Biographical identifiers:
+## Monitored identifiers in account bio:
 
 #### Key Phrases:
 
@@ -61,3 +61,9 @@ Date range end: 2023-02-18 23:55:50
 * #transWomenAreConMen
 * #transwomenaremen
 * #womenwontweesht
+
+## Monitored identifiers in tweets:
+
+#### Key Phrases:
+
+#### Hashtags:
