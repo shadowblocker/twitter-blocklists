@@ -17,6 +17,7 @@ Biographical identifiers:
 #EthnicEuropean
 #ethnocommunity
 #ethnostate
+#europeisfull
 #greatreplacement
 #hitlerwasright
 #irelandisfull
@@ -47,6 +48,7 @@ Monitored identifiers:
 #EthnicEuropean
 #ethnocommunity
 #ethnostate
+#europeisfull
 #greatreplacement
 #hitlerwasright
 #irelandisfull
