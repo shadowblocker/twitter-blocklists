@@ -1,7 +1,7 @@
 ## twitter-brexit
 
 All Twitter account unique user ID's, where the account's biographical description at the time of the crawl contains two or more monitored biographical 
-identifiers AND does not contain a whitelisted identifier. All Twitter account unique user ID's, where the account's tweets at the time of the crawl contains two or more monitored identifiers AND does not contain a whitelisted identifier.
+identifiers AND does not contain an excluded identifier. All Twitter account unique user ID's, where the account's tweets at the time of the crawl contains two or more monitored identifiers AND does not contain an excluded identifier.
 
 #### Search Scope
 * Date range start: 2015-07-14 00:54:57
@@ -48,6 +48,7 @@ identifiers AND does not contain a whitelisted identifier. All Twitter account u
 * #makebritaingreatagain
 * #mbga
 * #proudbrexiteer
+* #remoaners
 * #takebackcontrol
 * #standup4brexit
 * #standupforbrexit
@@ -71,16 +72,21 @@ identifiers AND does not contain a whitelisted identifier. All Twitter account u
 * #makebritaingreatagain
 * #mbga
 * #proudbrexiteer
+* #remoaners
 * #takebackcontrol
 * #standup4brexit
 * #standupforbrexit
 * #voteukip
 
-## Whitelisted identifiers:
+## Excluded identifiers:
 
 #### Key Phrases:
 
 #### Hashtags:
+* #brexitreality
+* #brexitshambles
+* #GTTO
 * #rejoineu
+* #torycorruption
 
 #### Last Updated: 2023-02-20
