@@ -4,7 +4,7 @@ All Twitter account unique user ID's, where the account's biographical descripti
 identifiers. All Twitter account unique user ID's, where the account's tweets at the time of the crawl contains two or more monitored identifiers.
 
 #### Search Scope
-* Date range start: 2000-01-01 00:00:01
+* Date range start: 2015-07-14 00:54:57
 * Date range end: 2023-02-20 23:59:59
 
 #### Biographical Identifiers
