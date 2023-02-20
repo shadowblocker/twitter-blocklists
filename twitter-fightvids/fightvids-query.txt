@@ -1,0 +1,174 @@
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "match_phrase": {
+            "hashtags.raw": "schoolfights"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "kidfight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "hoodfights"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "hoodfight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "hegothands"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "gorefight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "girlfights"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "girlfight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "ghettofighting"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "ghettofight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "fightsvideos"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "fightsvideo"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "fightspage"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "fightpage"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "crazyfight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "boyfight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "beatdowns"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "fightingatschool"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "fightingvideos"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "fightsatschool"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "fightvids"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "ghettofights"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "goredeath"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "hegotbeatup"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "hoodfighting"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "knockoutfight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "knockoutfights"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "schoolfight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "shegotbeatup"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "shegothands"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "streetfight"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "streetfights"
+          }
+        },
+        {
+          "match_phrase": {
+            "hashtags.raw": "streetfighting"
+          }
+        }
+      ],
+      "minimum_should_match": 2
+    }
+  }
+}
