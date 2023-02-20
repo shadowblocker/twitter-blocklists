@@ -8,8 +8,8 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * Date range end: 2023-02-20 23:59:59
 
 #### Biographical Identifiers
-* Total Hits: 0
-* Unique Hits: 0
+* Total Hits: 11,027
+* Unique Hits: 1,052
 
 #### Tweet Identifiers
 * Total Hits: 0
@@ -37,10 +37,12 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #brexitparty
 * #BritishIndependence 
 * #cleanbreakbrexit
+* #frexit
 * #fucktheeu
 * #getbrexitdone
 * #gotbrexitdone
 * #hardbrexit
+* #italexit
 * #leavemeansleave
 * #letsgowto
 * #makebritaingreatagain
