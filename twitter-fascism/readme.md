@@ -15,76 +15,55 @@ Biographical identifiers:
 
 * #americafirst 
 * #britainfirst 
-
-#buildthewall 
-
-#deportthemall 
-
-#englandisfull 
-
-#EthnicEuropean 
-
-#ethnocommunity 
-
-#ethnostate 
-
-#greatreplacement
-
-#hitlerwasright
-
-#irelandisfull
-
-#letsgobrandon
-
-#maga
-
-#maga2024
-
-#marchfortrump
-
-#notogreatreset
-
-#pureblood
-
-#stoptheboats
-
-#stoptheinvasion
-
-#stopthesteal
-
-#trump2024
-
-#trumpwon
-
-#ultramaga
+* #buildthewall 
+* #deportthemall 
+* #englandisfull 
+* #EthnicEuropean 
+* #ethnocommunity 
+* #ethnostate 
+* #greatreplacement
+* #hitlerwasright
+* #irelandisfull
+* #letsgobrandon
+* #maga
+* #maga2024
+* #marchfortrump
+* #notogreatreset
+* #pureblood
+* #stoptheboats
+* #stoptheinvasion
+* #stopthesteal
+* #trump2024
+* #trumpwon
+* #ultramaga
 
 Monitored identifiers:
 
-"enoch powell was right"
-"hitler was right"
-"pure blood"
+* "enoch powell was right"
+* "hitler was right"
+* "pure blood"
 
-#americafirst
-#britainfirst
-#buildthewall
-#deportthemall
-#englandisfull
-#EthnicEuropean
-#ethnocommunity
-#ethnostate
-#greatreplacement
-#hitlerwasright
-#irelandisfull
-#letsgobrandon
-#maga
-#maga2024
-#marchfortrump
-#notogreatreset
-#pureblood
-#replacism
-#stoptheboats
-#stoptheinvasion
-#stopthesteal
-#trump2024
-#trumpwon
-#ultramaga
+* #americafirst
+* #britainfirst
+* #buildthewall
+* #deportthemall
+* #englandisfull
+* #EthnicEuropean
+* #ethnocommunity
+* #ethnostate
+* #greatreplacement
+* #hitlerwasright
+* #irelandisfull
+* #letsgobrandon
+* #maga
+* #maga2024
+* #marchfortrump
+* #notogreatreset
+* #pureblood
+* #replacism
+* #stoptheboats
+* #stoptheinvasion
+* #stopthesteal
+* #trump2024
+* #trumpwon
+* #ultramaga
