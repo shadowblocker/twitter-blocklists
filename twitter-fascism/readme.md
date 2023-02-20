@@ -10,27 +10,49 @@ Unique Hits: 18,245
 Biographical identifiers:
 
 #americafirst 
+
 #britainfirst 
+
 #buildthewall 
+
 #deportthemall 
+
 #englandisfull 
+
 #EthnicEuropean 
+
 #ethnocommunity 
+
 #ethnostate 
+
 #greatreplacement
+
 #hitlerwasright
+
 #irelandisfull
+
 #letsgobrandon
+
 #maga
+
 #maga2024
+
 #marchfortrump
+
 #notogreatreset
+
 #pureblood
+
 #stoptheboats
+
 #stoptheinvasion
+
 #stopthesteal
+
 #trump2024
+
 #trumpwon
+
 #ultramaga
 
 Monitored identifiers:
