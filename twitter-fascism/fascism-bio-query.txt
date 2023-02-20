@@ -1,0 +1,124 @@
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "match_phrase": {
+            "bio": "#britainfirst"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#americafirst"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#buildthewall"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#deportthemall"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#englandisfull"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#EthnicEuropean"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#ethnocommunity"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#ethnostate"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#greatreplacement"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#hitlerwasright"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#irelandisfull"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#letsgobrandon"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#maga"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#maga2024"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#marchfortrump"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#notogreatreset"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#pureblood"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#stoptheboats"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#stoptheinvasion"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#stopthesteal"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#trump2024"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#trumpwon"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#ultramaga"
+          }
+        }	
+      ],
+      "minimum_should_match": 1
+    }
+  }
+}
