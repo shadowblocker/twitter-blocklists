@@ -8,8 +8,8 @@ identifiers AND does not contain an excluded identifier. All Twitter account uni
 * Date range end: 2023-02-20 23:59:59
 
 #### Biographical Identifiers
-* Total Hits: 11,031
-* Unique Hits: 1,055
+* Total Hits: 10,862
+* Unique Hits: 1,053
 
 #### Tweet Identifiers
 * Total Hits: 0
