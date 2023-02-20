@@ -8,7 +8,7 @@ Crawlers deployed: snscrape/fastuser.py snscrape/advsearch.py snscrape/hashtag.p
 * Total Hits: 139,266
 * Unique Hits: 18,245
 
-Biographical identifiers:
+## Biographical identifiers:
 
 * #americafirst 
 * #britainfirst 
@@ -34,7 +34,7 @@ Biographical identifiers:
 * #trumpwon
 * #ultramaga
 
-Monitored identifiers:
+## Monitored identifiers:
 
 * "enoch powell was right"
 * "hitler was right"
