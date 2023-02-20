@@ -1,4 +1,4 @@
-## twitter-brexit blocklist
+## twitter-brexit
 
 All Twitter account unique user ID's, where the account's biographical description at the time of the crawl contains two or more monitored biographical 
 identifiers. All Twitter account unique user ID's, where the account's tweets at the time of the crawl contains two or more monitored identifiers.
