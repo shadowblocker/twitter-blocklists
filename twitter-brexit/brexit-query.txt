@@ -1,0 +1,139 @@
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "match_phrase": {
+            "bio": "#brexitparty"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#brexiteer"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "voted leave"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "leave voter"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "proud brexiteer"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "love europe hate eu"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "love europe hate the eu"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "brexiteer"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "leave means leave"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "brexit means brexit"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "anti-eu"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#BritishIndependence"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#cleanbreakbrexit"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#fucktheeu"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#getbrexitdone"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#gotbrexitdone"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#hardbrexit"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#leavemeansleave"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#letsgowto"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#makebritaingreatagain"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#mbga"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#proudbrexiteer"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#takebackcontrol"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#standup4brexit"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#standupforbrexit"
+          }
+        },
+        {
+          "match_phrase": {
+            "bio": "#voteukip"
+          }
+        }
+      ],
+      "minimum_should_match": 2
+    }
+  }
+}
