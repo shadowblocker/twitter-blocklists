@@ -40,9 +40,9 @@ Crawlers deployed: snscrape/fastuser.py snscrape/advsearch.py snscrape/hashtag.p
 * "hitler was right"
 * "pure blood"
 
-* #americafirst
-* #britainfirst
-* #buildthewall
+* #americafirst 
+* #britainfirst 
+* #buildthewall 
 * #deportthemall
 * #englandisfull
 * #EthnicEuropean
@@ -64,3 +64,5 @@ Crawlers deployed: snscrape/fastuser.py snscrape/advsearch.py snscrape/hashtag.p
 * #trump2024
 * #trumpwon
 * #ultramaga
+
+Last updated: 2023-02-20
