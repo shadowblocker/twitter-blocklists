@@ -21,7 +21,11 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * tweepy/search.py 
 * tweepy/hashtag.py
 
-## Biographical identifiers:
+## Monitored identifiers in account bio:
+
+#### Key Phrases:
+
+#### Hashtags:
 
 * #americafirst 
 * #britainfirst 
@@ -48,13 +52,16 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #trumpwon
 * #ultramaga
 
-## Monitored identifiers:
+## Monitored identifiers in tweets:
 
+#### Key Phrases:
 * "enoch powell was right"
 * "hitler was right"
 * "kanye was right"
 * "pure blood"
 * "ye was right"
+
+#### Hashtags:
 * #americafirst 
 * #britainfirst 
 * #buildthewall 
@@ -80,4 +87,4 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #trumpwon
 * #ultramaga
 
-Last updated: 2023-02-20
+### Last updated: 2023-02-20
