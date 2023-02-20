@@ -25,8 +25,12 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * "anti-eu"
 * "brexit means brexit"
 * "brexiteer"
+* "Leave Means Leave"
+* "leave voter"
+* "love europe hate eu"
 * "love europe hate the eu"
 * "proud brexiteer"
+* "voted leave"
 
 #### Hashtags:
 * #brexiteer
