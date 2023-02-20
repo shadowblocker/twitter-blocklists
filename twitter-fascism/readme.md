@@ -1,8 +1,6 @@
 All Twitter account unique user ID's, where the account's biographical description at the time of the crawl contains one or more monitored biographical 
 identifiers. All Twitter account unique user ID's, where the account's tweets at the time of the crawl contains two or more monitored identifiers.
 
-Crawlers deployed: snscrape/fastuser.py snscrape/advsearch.py snscrape/hashtag.py tweepy/userbio.py tweepy/search.py tweepy/hashtag.py
-
 #### Search Scope
 * Date range start: 2017-08-28 01:58:43
 * Date range end: 2023-02-20 07:43:25
@@ -15,6 +13,13 @@ Crawlers deployed: snscrape/fastuser.py snscrape/advsearch.py snscrape/hashtag.p
 * Total Hits: 37,662
 * Unique Hits: 4,900
 
+#### Crawlers deployed: 
+* snscrape/fastuser.py 
+* snscrape/advsearch.py 
+* snscrape/hashtag.py 
+* tweepy/userbio.py 
+* tweepy/search.py 
+* tweepy/hashtag.py
 
 ## Biographical identifiers:
 
