@@ -129,6 +129,16 @@
         },
         {
           "match_phrase": {
+            "bio": "#italexit"
+          }
+        },		
+        {
+          "match_phrase": {
+            "bio": "#frexit"
+          }
+        },
+        {
+          "match_phrase": {
             "bio": "#voteukip"
           }
         }
