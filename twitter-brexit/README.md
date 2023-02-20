@@ -8,8 +8,8 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * Date range end: 2023-02-20 23:59:59
 
 #### Biographical Identifiers
-* Total Hits: 11,027
-* Unique Hits: 1,052
+* Total Hits: 11,031
+* Unique Hits: 1,055
 
 #### Tweet Identifiers
 * Total Hits: 0
