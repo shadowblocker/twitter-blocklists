@@ -1,0 +1,159 @@
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "match_phrase": {
+            "tweet": "ye was right"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "pure blood"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "kanye was right"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "hitler was right"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "enoch powell was right"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#americafirst"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#britainfirst"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#buildthewall"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#deportthemall"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#englandisfull"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#EthnicEuropean"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#ethnocommunity"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#ethnostate"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#europeisfull"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#greatreplacement"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#hitlerwasright"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#irelandisfull"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#letsgobrandon"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#maga"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#maga2024"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#marchfortrump"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#notogreatreset"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#pureblood"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#replacism"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#stoptheboats"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#stoptheinvasion"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#stopthesteal"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#trump2024"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#trumpwon"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#ultramaga"
+          }
+        }		
+      ],
+      "minimum_should_match": 2
+    }
+  }
+}
