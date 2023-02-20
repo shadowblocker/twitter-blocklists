@@ -19,7 +19,7 @@ All Twitter account unique user ID's, where the account has tweeted one or more 
 * tweepy/search.py 
 * tweepy/hashtag.py
 
-## Monitored identifiers in account biography:
+## Monitored identifiers in account bio:
 
 #### Key Phrases:
 
