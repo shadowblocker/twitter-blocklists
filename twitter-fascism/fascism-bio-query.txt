@@ -44,6 +44,11 @@
         },
         {
           "match_phrase": {
+            "bio": "#europeisfull"
+          }
+        },
+        {
+          "match_phrase": {
             "bio": "#greatreplacement"
           }
         },
