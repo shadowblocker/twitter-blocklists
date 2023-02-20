@@ -3,10 +3,18 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 
 Crawlers deployed: snscrape/fastuser.py snscrape/advsearch.py snscrape/hashtag.py tweepy/userbio.py tweepy/search.py tweepy/hashtag.py
 
-* Date range start: 2000-01-01 00:00:01
+#### Search Scope
+* Date range start: 2017-08-28 01:58:43
 * Date range end: 2023-02-20 07:43:25
+
+#### Biographical Identifiers
 * Total Hits: 139,266
 * Unique Hits: 18,245
+
+#### Monitored Identifiers
+* Total Hits: 37,662
+* Unique Hits: 4,900
+
 
 ## Biographical identifiers:
 
