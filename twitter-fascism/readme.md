@@ -18,6 +18,7 @@ Crawlers deployed: snscrape/fastuser.py snscrape/advsearch.py snscrape/hashtag.p
 * #EthnicEuropean 
 * #ethnocommunity 
 * #ethnostate 
+* #europeisfull 
 * #greatreplacement
 * #hitlerwasright
 * #irelandisfull
@@ -38,8 +39,9 @@ Crawlers deployed: snscrape/fastuser.py snscrape/advsearch.py snscrape/hashtag.p
 
 * "enoch powell was right"
 * "hitler was right"
+* "kanye was right"
 * "pure blood"
-
+* "ye was right"
 * #americafirst 
 * #britainfirst 
 * #buildthewall 
