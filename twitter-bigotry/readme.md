@@ -36,6 +36,7 @@ Date range end: 2023-02-18 23:55:50
 * #BlockedbyHfromSteps
 * #cisisaslur
 * #defundstonewall
+* #DropTheT
 * #gaynotqueer
 * #getthelout
 * #istandwithjkrowling
