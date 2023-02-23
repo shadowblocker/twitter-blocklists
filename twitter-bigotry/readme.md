@@ -23,10 +23,14 @@ Date range end: 2023-02-18 23:55:50
 
 * "Adult Human Female"
 * "Adult Human Male"
+* "Cis is a slur"
+* "Drop The T"
 * "Gay Not Queer"
 * "Lesbian Not Queer"
+* "OK Groomer"
 * "sex is binary"
 * "sex is immutable"
+* "Stonewall Our"
 
 #### Hashtags:
 
