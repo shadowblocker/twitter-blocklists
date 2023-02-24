@@ -48,6 +48,7 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #stoptheboats
 * #stoptheinvasion
 * #stopthesteal
+* #thenoticing
 * #trump2024
 * #trumpwon
 * #ultramaga
@@ -83,6 +84,7 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #stoptheboats
 * #stoptheinvasion
 * #stopthesteal
+* #thenoticing
 * #trump2024
 * #trumpwon
 * #ultramaga
