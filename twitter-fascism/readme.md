@@ -52,6 +52,9 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #trump2024
 * #trumpwon
 * #ultramaga
+* #ye2024
+* #ye24
+* #yewasright
 
 ## Monitored identifiers in tweets:
 
@@ -88,5 +91,8 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #trump2024
 * #trumpwon
 * #ultramaga
+* #ye2024
+* #ye24
+* #yewasright
 
 ### Last updated: 2023-02-24
