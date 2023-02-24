@@ -3,15 +3,15 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 
 #### Search Scope
 * Date range start: 2017-08-28 01:58:43
-* Date range end: 2023-02-20 07:43:25
+* Date range end: 2023-02-24 12:09:15
 
 #### Biographical Identifiers
-* Total Hits: 139,266
-* Unique Hits: 18,245
+* Total Hits: 150,630
+* Unique Hits: 15,077
 
 #### Monitored Identifiers
-* Total Hits: 37,662
-* Unique Hits: 4,900
+* Total Hits: 37,922
+* Unique Hits: 5,015
 
 #### Crawlers deployed: 
 * snscrape/fastuser.py 

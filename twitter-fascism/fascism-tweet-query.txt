@@ -149,6 +149,21 @@
         },
         {
           "match_phrase": {
+            "tweet": "#ye2024"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#ye24"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#yewasright"
+          }
+        },
+        {
+          "match_phrase": {
             "tweet": "#ultramaga"
           }
         }		
