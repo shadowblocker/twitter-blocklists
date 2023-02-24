@@ -89,4 +89,4 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #trumpwon
 * #ultramaga
 
-### Last updated: 2023-02-20
+### Last updated: 2023-02-24
