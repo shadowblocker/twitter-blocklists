@@ -2,8 +2,8 @@ All Twitter account unique user ID's, where the account biographical description
 contains one or more monitored biographical identifiers common with anti-lgbtq+ groups and or views.
 
 #### Search Scope
-Date range start: 2013-02-14 11:34:17
-Date range end: 2023-03-06 16:10:11
+* Date range start: 2013-02-14 11:34:17
+* Date range end: 2023-03-06 16:10:11
 
 #### Biographical Identifiers
 * Total Hits: 98,371
