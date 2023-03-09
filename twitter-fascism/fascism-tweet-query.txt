@@ -164,6 +164,16 @@
         },
         {
           "match_phrase": {
+            "tweet": "#scotlandisfull"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#walesisfull"
+          }
+        },
+        {
+          "match_phrase": {
             "tweet": "#ultramaga"
           }
         }		

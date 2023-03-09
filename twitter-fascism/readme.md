@@ -3,15 +3,15 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 
 #### Search Scope
 * Date range start: 2017-08-28 01:58:43
-* Date range end: 2023-02-24 12:09:15
+* Date range end: 2023-03-09 12:22:07
 
 #### Biographical Identifiers
-* Total Hits: 150,630
-* Unique Hits: 15,077
+* Total Hits: 163,045
+* Unique Hits: 16,283
 
 #### Monitored Identifiers
-* Total Hits: 37,922
-* Unique Hits: 5,015
+* Total Hits: 39,116
+* Unique Hits: 5,255
 
 #### Crawlers deployed: 
 * snscrape/fastuser.py 
@@ -45,6 +45,7 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #marchfortrump
 * #notogreatreset
 * #pureblood
+* #scotlandisfull
 * #stoptheboats
 * #stoptheinvasion
 * #stopthesteal
@@ -52,6 +53,7 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #trump2024
 * #trumpwon
 * #ultramaga
+* #walesisfull
 * #ye2024
 * #ye24
 * #yewasright
@@ -84,6 +86,7 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #notogreatreset
 * #pureblood
 * #replacism
+* #scotlandsisfull
 * #stoptheboats
 * #stoptheinvasion
 * #stopthesteal
@@ -91,6 +94,7 @@ identifiers. All Twitter account unique user ID's, where the account's tweets at
 * #trump2024
 * #trumpwon
 * #ultramaga
+* #walesisfull
 * #ye2024
 * #ye24
 * #yewasright
