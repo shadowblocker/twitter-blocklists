@@ -1,0 +1,70 @@
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "match_phrase": {
+            "tweet": "BTC giveaway"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "ETH giveaway"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "NFT giveaway"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#NFTCollectors"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#NFTGiveaway"
+          }
+        },
+
+        {
+          "match_phrase": {
+            "tweet": "#SolanaAirdrops"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#SolanaCommunity"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "#SolanaNFT"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "$DOGE"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "$ODIN"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "$SHIB"
+          }
+        },
+        {
+          "match_phrase": {
+            "tweet": "$SOL"
+          }
+        }
+      ],
+      "minimum_should_match": 2
+    }
+  }
+}
