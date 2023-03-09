@@ -10,8 +10,8 @@ video which also contains two or more monitored hashtags or key phrases.
 * Unique Hits: 0
 
 #### Monitored Identifiers
-* Total Hits: 28,776
-* Unique Hits: 7,074
+* Total Hits: 20,859
+* Unique Hits: 2,114
 
 #### Crawlers deployed: 
 * snscrape/advsearch.py 
@@ -67,4 +67,4 @@ video which also contains two or more monitored hashtags or key phrases.
 * #streetfighting
 * #streetfights
 
-### Last updated: 2023-02-20
+### Last updated: 2023-03-09
